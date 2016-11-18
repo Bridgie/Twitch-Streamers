@@ -1,0 +1,68 @@
+.lineFirst{
+  font-size: 30px;
+  color: #6441A5;
+}
+ .lineSecond{
+  font-size: 50px;
+  color: #6441A5;
+}
+body{
+  background-color: silver;
+}
+image.resize{
+  width: 200px;
+  height: 100px;
+}
+.image {
+  zoom: 20%;
+  position: relative;
+  left: 500px;
+  width: 6%;
+}
+.border{
+  border: solid #6441A5;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+.name{
+  position: relative;
+  right: 300px;
+  bottom: 280px;
+  font-size: 20px;
+}
+.name1{
+  position: relative;
+  top: 50px;
+  left: 125px;
+}
+.name2{
+  position: relative;
+  top: 125px;
+  left: 30px;
+}
+.name3{
+  position: relative;
+  top: 200px;
+  right: 110px;
+}
+.title{
+  position: relative;
+  bottom: 300px;
+  font-size: 20px;
+}
+.nightblue3{
+  position: relative;
+  bottom: 45px;
+}
+.edbergtv{
+  position: relative;
+  bottom: 10px;
+}
+.freecodecamp{
+  position: relative;
+  top: 110px;
+}
+.sovietwomble{
+  position: relative;
+  bottom: 4px; 
+}
